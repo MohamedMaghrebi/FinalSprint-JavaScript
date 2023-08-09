@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Mohamed Maghrebi",
+        "age": 41,
+        "email": "mohamed.maghrebi@keyin.com",
+        "phone": "7093305254",
+        "isMarried": true,
+        "address": {
+            "city": "St.john's",
+            "postalCode": "A1H1A6"
+        }
+    },
+    {
+        "name": "Karim Ahmed",
+        "age": 25,
+        "email": "karim.ahmed@keyin.com",
+        "phone": "7091234567",
+        "isMarried": false,
+        "address": {
+            "city": "St.john's",
+            "postalCode": "A1T5H3"
+        }
+    },
+
+    {
+        "name": "Mourad Bacha",
+        "age": 22,
+        "email": "mourad.bacha@keyin.com",
+        "phone": "7091234534",
+        "isMarried": false,
+        "address": {
+            "city": "St.john's",
+            "postalCode": "Q4T7H5"
+        }
+    },
+    {
+        "name": "Hassen Jamel",
+        "age": 33,
+        "email": "hassen.jamel@keyin.com",
+        "phone": "7091986567",
+        "isMarried": true,
+        "address": {
+            "city": "St.john's",
+            "postalCode": "S5F7H8"
+        }
+    },
+    {
+        "name": "Kamel Gabsi",
+        "age": 55,
+        "email": "kamel.gabsi@keyin.com",
+        "phone": "7091982567",
+        "isMarried": true,
+        "address": {
+            "city": "St.john's",
+            "postalCode": "Y8T9K5"
+        }
+    },
+    {
+        "name": "Taib Dramet",
+        "age": 44,
+        "email": "taib.dramet@keyin.com",
+        "phone": "7091297157",
+        "isMarried": false,
+        "address": {
+            "city": "St.john's",
+            "postalCode": "Q4T7H5"
+        }
+    }
+       
+       
+]
